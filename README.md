@@ -1,2 +1,2 @@
 # flipboard-like-header-animation
-Section header scrolling animation inspired by Flipboard mobile
+Animation of header in each section when scrolling the page - inspired by Flipboard magazine on Android device homepage
